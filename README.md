@@ -18,6 +18,17 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
+Developed by: R.Mahalakshmi
+Register no.: 212223230117
+
+surya = input()
+vijay = input()
+temp = surya
+surya = vijay
+vijay = temp
+print("Swapped values are: {} {}".format(surya,vijay))
+### OUTPUT
+![Uploading image.png…]()
 
 
 

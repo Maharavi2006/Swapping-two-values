@@ -18,6 +18,7 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
+```
 Developed by: R.Mahalakshmi
 Register no.: 212223230117
 
@@ -27,9 +28,10 @@ temp = surya
 surya = vijay
 vijay = temp
 print("Swapped values are: {} {}".format(surya,vijay))
+```
 ### OUTPUT
-![Uploading image.png…]()
 
+![Screenshot 2024-03-18 181402](https://github.com/Maharavi2006/Swapping-two-values/assets/154535981/d26a80ef-5608-4781-b8c1-dbf27e223e76)
 
 
 ## RESULT:

@@ -31,7 +31,8 @@ print("Swapped values are: {} {}".format(surya,vijay))
 ```
 ### OUTPUT
 
-![Screenshot 2024-03-18 181402](https://github.com/Maharavi2006/Swapping-two-values/assets/154535981/d26a80ef-5608-4781-b8c1-dbf27e223e76)
+![Screenshot 2024-04-06 081114](https://github.com/Maharavi2006/Swapping-two-values/assets/154535981/044088b5-d61c-48a0-a737-284c5b60a103)
+
 
 
 ## RESULT:
